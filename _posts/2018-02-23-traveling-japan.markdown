@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2018春日本游记"
+title:      "2018春-日本游记"
 subtitle:   " "
 date:       2018-02-23
 author:     "Hime"
@@ -10,61 +10,107 @@ tags:
     - 摄影
 ---
 
->抵达日本
+**抵达日本**
 
 ![](/img/japan/DSC01604.JPG)
 
->人生愿望达成
+**人生愿望达成**
 
 ![](/img/japan/DSC01640.JPG)
 
->骗我喝茶
+**骗我喝茶**
 
 ![](/img/japan/DSC01662.JPG)
 ![](/img/japan/DSC01700.JPG)
 
->东京塔
+**东京塔**
 
 ![](/img/japan/DSC01724.JPG)
 
->浅草寺
+**浅草寺**
 
 ![](/img/japan/DSC01767.JPG)
 
->东京站
+**东京站**
 
 ![](/img/japan/DSC01832.JPG)
 
->银座 也只有优衣库是我进得去的
+**银座 也只有优衣库是我消费的起**
 
 ![](/img/japan/DSC01848.JPG)
 
->涉谷
+**涉谷**
 
 ![](/img/japan/DSC02059.JPG)
 
->没有妹子还是别来这里看夜景了
+**没有妹子还是别来这里看夜景了**
 
 ![](/img/japan/DSC02166.JPG)
 
->好喝
+**好喝**
 
 ![](/img/japan/DSC02208.JPG)
 
->你的名字 圣地巡礼
+**你的名字 圣地巡礼**
 
 ![](/img/japan/DSC02319.JPG)
 
->前往京都 
+**前往京都**
 
 ![](/img/japan/DSC02490.JPG)
 
->八坂神社
+**八坂神社**
 
 ![](/img/japan/DSC02640.JPG)
 
->
+**金阁寺**
 
->
+![](/img/japan/DSC02787.JPG)
 
->
+**金箔雪糕**
+
+![](/img/japan/DSC02860.JPG)
+
+**岚山铁轨**
+
+![](/img/japan/DSC02953.JPG)
+
+**岚山竹林**
+
+![](/img/japan/DSC03059.JPG)
+
+**春日大社 不收费的神社不是好神社**
+
+![](/img/japan/DSC03327.JPG)
+
+**闭目养神的鹿**
+
+![](/img/japan/DSC03371.JPG)
+
+**6点还没到就关门的宇治小店**
+
+![](/img/japan/DSC03527.JPG)
+
+**给钱就能建个门的伏见稻荷大社**
+
+![](/img/japan/DSC03663.JPG)
+
+**维护中的清水寺**
+
+![](/img/japan/DSC03803.JPG)
+
+**南禅寺的水路阁**
+
+![](/img/japan/DSC04060.JPG)
+
+**还有99条没走**
+
+![](/img/japan/DSC04086.JPG)
+
+**我才不会说这家店的东西很好吃**
+
+![](/img/japan/DSC04207.JPG)
+
+**不错的牛扒**
+
+![](/img/japan/DSC04215.JPG)

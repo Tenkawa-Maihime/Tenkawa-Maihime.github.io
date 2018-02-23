@@ -57,7 +57,7 @@ tags:
 
 ![](/img/japan/DSC02319.JPG)
 
-**新干线前往京都**
+**乘坐新干线前往京都**
 
 ![](/img/japan/DSC02490.JPG)
 

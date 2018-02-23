@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "2018春-日本游记"
-subtitle:   " "
 date:       2018-02-23
 author:     "Hime"
 header-img: "img/home-bg.jpg"

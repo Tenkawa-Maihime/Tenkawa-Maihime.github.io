@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2018春-日本游记"
-subtitle:   " "
+subtitle:   "东京——京都——奈良"
 date:       2018-02-23
 author:     "Hime"
 header-img: "img/home-bg.jpg"
@@ -90,7 +90,7 @@ tags:
 
 ![](/img/japan/DSC03371.JPG)
 
-**原本想到中村滕吉吃个甜品，但没到6点就关门了，只好回程**
+**原本想到宇治吃个甜品，但没到6点都关门了，只好回程**
 
 ![](/img/japan/DSC03527.JPG)
 

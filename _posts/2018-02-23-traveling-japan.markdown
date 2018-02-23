@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2018春-日本游记"
-subtitle:   "东京——京都——奈良"
+subtitle:   ""
 date:       2018-02-23
 author:     "Hime"
 header-img: "img/home-bg.jpg"
@@ -22,7 +22,7 @@ tags:
 
 ![](/img/japan/DSC01662.JPG)
 
-**晚上的秋叶原**
+**秋叶原夜景**
 
 ![](/img/japan/DSC01700.JPG)
 
@@ -46,7 +46,7 @@ tags:
 
 ![](/img/japan/DSC02059.JPG)
 
-**没有妹子还是别来这里看夜景了**
+**六本木新城 —— 没有妹子还是别来这里看夜景了**
 
 ![](/img/japan/DSC02166.JPG)
 
@@ -90,11 +90,11 @@ tags:
 
 ![](/img/japan/DSC03371.JPG)
 
-**原本想到宇治吃个甜品，但没到6点都关门了，只好回程**
+**原本想到宇治吃个甜品，但没到6点都停止营业了**
 
 ![](/img/japan/DSC03527.JPG)
 
-**给钱就能建个门的伏见稻荷大社**
+**伏见稻荷大社 —— 给钱就能建个门**
 
 ![](/img/japan/DSC03663.JPG)
 

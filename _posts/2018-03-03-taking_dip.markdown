@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "浅谈依赖倒置"
-subtitle:   " "
 date:       2018-03-03
 author:     "Hime"
 header-img: "img/post-bg-2015.jpg"

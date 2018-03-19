@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "2018春日本游记"
+title:      2018春日本游记
 date:       2018-02-23
 author:     "Hime"
-header-img: "img/home-bg.jpg"
+header-img: "img/article-bg.JPG"
 catalog: true
 tags:
     - 摄影

@@ -3,7 +3,7 @@ layout:     post
 title:      "浅谈依赖倒置"
 date:       2018-03-03
 author:     "Hime"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/article-bg.JPG"
 catalog: true
 tags:
     - 设计模式

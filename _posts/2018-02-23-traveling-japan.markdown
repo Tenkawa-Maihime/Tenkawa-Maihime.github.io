@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      2018春日本游记
+title:  2018春日本游记
 date:       2018-02-23
 author:     "Hime"
 header-img: "img/article-bg.JPG"

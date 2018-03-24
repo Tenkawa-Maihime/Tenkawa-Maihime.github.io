@@ -3,7 +3,7 @@ layout:     post
 title:      "双边滤波"
 date:       2018-03-24
 author:     "Hime"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/article-bg-2015.jpg"
 catalog: true
 tags:
     - 算法
@@ -55,7 +55,7 @@ float closeness = 1 - distance(colorAtPixel.xyz, colorAtCenter.xyz) / length(flo
 第一行为均值模糊  
 第二行为双边模糊  
 从左至右分别为原图，以及卷积核大小为5x5、9x9、13x13、17x17。  
-![](/img/bilateral/Beauty.JPG)
+![](/img/bilateral/Beauty.jpg)
 
 
 

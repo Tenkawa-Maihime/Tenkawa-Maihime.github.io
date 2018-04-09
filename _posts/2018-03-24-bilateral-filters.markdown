@@ -3,7 +3,7 @@ layout:     post
 title:      "双边滤波"
 date:       2018-03-24
 author:     "Hime"
-header-img: "img/article-bg.jpg"
+header-img: "img/article-bg.JPG"
 catalog: true
 tags:
     - 算法

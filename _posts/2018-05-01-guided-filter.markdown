@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "用导向滤波实现边缘保留功能"
+title:      用导向滤波实现边缘保留功能
 date:       2018-05-01
 author:     "Hime"
 header-img: "img/article-bg.JPG"

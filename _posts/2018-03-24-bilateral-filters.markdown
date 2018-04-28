@@ -58,7 +58,7 @@ float closeness = 1 - distance(colorAtPixel.xyz, colorAtCenter.xyz) / length(flo
 下图为处理结果  
 第一行为均值模糊  
 第二行为双边模糊  
-从左至右分别为原图，以及被卷积核半径为5、9、13、17处理过的图  
+从左至右分别为原图，以及卷积核半径等于5、9、13、17的图  
 可以右键在新标签页中打开图片查看原图
 
 ![](/img/bilateral/Beauty.jpg)

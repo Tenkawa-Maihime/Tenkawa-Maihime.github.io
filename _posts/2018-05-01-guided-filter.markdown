@@ -12,8 +12,7 @@ tags:
 有这么一篇文章：
 [Guided Image Filtering, by Kaiming He, Jian Sun, and Xiaoou Tang, in TPAMI 2013.](http://kaiminghe.com/publications/pami12guidedfilter.pdf)
 
-根据其中的Guided Filter算法，将导向图设置为与输入图相同的图像，就会变成一种边缘保留的滤波器。
-
+根据其中的Guided Filter算法，将导向图设置为与输入图相同的图像，就会变成一种边缘保留的滤波器。  
 原公式则变为
 
 ![equation](http://latex.codecogs.com/gif.latex?m_{ij}=\frac{1}{(2r+1)(2r+1)}\sum_{k=i-r}^{i+r}\sum_{l=j-r}^{j+r}x_{kl})

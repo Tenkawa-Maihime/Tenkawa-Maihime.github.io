@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "基于导向滤波实现边缘保留功能"
+title:      "用导向滤波实现边缘保留功能"
 date:       2018-05-01
 author:     "Hime"
 header-img: "img/article-bg.JPG"
@@ -36,7 +36,7 @@ tags:
 
 这样就可以快速取得方差值
 
-以下是Metal的Shader，其中![equation](http://latex.codecogs.com/gif.latex?\sigma=0.01)
+以下是Metal的Shader，其中σ=0.01
 
 ```c++
 kernel void GuidedFilter(texture2d<float, access::read> inTexture [[texture(0)]],

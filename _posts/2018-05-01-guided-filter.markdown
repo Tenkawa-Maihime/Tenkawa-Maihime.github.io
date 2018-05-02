@@ -67,4 +67,6 @@ kernel void GuidedFilter(texture2d<float, access::read> inTexture [[texture(0)]]
 }
 ```
 
-下图为处理结果
+下图为处理结果  
+从上至下分别为原图，以及卷积核半径等于6、11的图  
+![](/img/guided/guided-filter.jpg)

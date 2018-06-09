@@ -32,12 +32,18 @@ Manager之间会相互调用，以及访问各自的数据。
 这也就是数据驱动的特性，如果我们改用事件驱动的话，就能很轻松的知道数据为什么发生变化，Debug就会相对简单。
 我们再一次进行重构，这次采用事件驱动, 即当数据源发生变化时，我们发出通知，告诉UI层让其主动去拉取最新的数据。 
 
+![](/img/evolution/ppt4.JPG)
+将与Manager同级的Store下移为仓库层，这使得我们的流经过Manger时不会分叉为UI和，每当我们的请求返回结果时将数据存入其中，请求流抵达UI层时，UI层主动向底层仓库层获取数据。
+
 #### 模块化
 
-我们采用Cocoapods以及Framework来进行模块化，对于高度复用以及与业务逻辑无关的部分将其封装成私有pod，其余的才用Framework添加到项目中。
-![](/img/evolution/ppt4.JPG)
+我们采用Cocoapods以及Framework来进行模块化，对于高度复用以及与业务逻辑无关的部分将其封装成私有pod（如网络请求模块），其余的采用Framework添加到项目中。  
+
+FrameWork之间相互独立
 ![](/img/evolution/ppt5.JPG)
 
 #### React Native
 鉴于目前的形势，混编是未来。  
-因此我们的另外一个项目放弃了模块化，采用了React Native。
+因此我们的另外一个项目放弃了模块化，采用了React Native。  
+
+

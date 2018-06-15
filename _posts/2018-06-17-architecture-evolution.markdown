@@ -38,7 +38,7 @@ Manager之间会相互调用，以及访问各自的数据。
 
 我们采用Cocoapods以及Framework来进行模块化，对于高度复用以及与业务逻辑无关的部分将其封装成私有pod（如网络请求模块），其余的采用Framework添加到项目中。  
 ![](/img/evolution/ppt5.JPG)
-这里的Manager将封装成FrameWork，它们之间相互独立，UI层依赖于Manager，如果Manager需要依赖UI层的某些东西或者Manager之间相互依赖，可以定义接口，通过它来进行依赖倒置。
+这里的Manager将封装成FrameWork，它们之间相互独立，UI层依赖于Manager，如果Manager需要依赖UI层的某些东西或者Manager之间相互依赖，可以定义接口，通过它来进行依赖倒置。而模块所需的参数通过依赖注入获取。
 
 
 模块化比较适合多人团队，每个人负责特定的模块。初期搭建会比较繁琐，但到了后期拥有多个项目时会非常方便。 

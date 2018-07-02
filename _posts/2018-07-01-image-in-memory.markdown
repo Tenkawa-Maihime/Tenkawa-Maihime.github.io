@@ -19,6 +19,7 @@ tags:
 - luminance and alpha 8
 - SRGB
 - wide format
+
 分别占用1、2、4、8个Byte
   
 如果你画一张黑色图片，使用老的API：UIGraphicsBeginImageContextWithOptions，会为每个黑色像素分配4个Byte，但实际上只需要1个Byte就足够了。  
